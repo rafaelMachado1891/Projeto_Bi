@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-bi-421401",
+  "private_key_id": "8aa9f4ce2242c18d645ae88b384f8c4efd43f269",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5PfKp2XUvZLtz\nbm2m5GpPbaKYpSxqQGfgph/NQNKQ44GuUsvs+BVbgk6U+Tqn86HV+Cly+BQRz7t/\nJEM/ZijMwYgVN2ValUNNc2+D7ygEewFrudvJmedZm3ZDfj9x0TTeK1iBQyyw6fEB\noCzkgmPvBaUbN8Qs3c2i/Z2tpvoJ1N5Mo8ZRgSTKdbTjQ009vlqqJ06X6Xv44KPx\nZTMRXu2L9ZhyIwNY9lewBmo42/h7xOScr8AvXdoAO9OmDvi89NHyJoksBln0DHtA\nPf9eOXaX8jcCNzInITU5knDrVbkQRgqRmK9aNLoN+2lBmOcwLT9JvcT4T1hT9bAK\nbBgI+f6dAgMBAAECggEADrqhP+Ydjj4pNX1zVJDW7yfdhNulU3F5kQBEiRJ9a63b\nUtwcgOQc9qC+1NOYWWBi3tuTmCOnnN7ynqJognMCDX3Z7y3vbituJYtnM4thmDGb\npFAr7LTDE3nsBmPUcZ1b4cp6iBSqSgrf8ewlhankfk3pmeduPs8IGcymq/cZ7IwQ\nftc+JGK5neNsZjVy31xS1GYTixPg07n/Q80GSW8MPwxXNegDHjLrsx7gt5sqaA8O\nGnuCkQoBK9mnwAASUoUQxw4O5Oocyetr48G5VlstDXmdUsoBYn3So4xsCQZ61UPn\nQLn3aKkyfOvVJ/M8gsUKW8xZ6nRgemhSRh7Xat6wFQKBgQD7m3hibHCfbT223CeP\nNMRZAc1Px7gLQE0FyPGb6IoU5Am55Lxi5O4gf1c7sKbAZbv0tDvrL8nss5GF5ttx\nBHeEyjVNfsbarY36pEJtxRg2TYd7hXp+lmk4nTbg1L5B+oSu8GuZWGImgZOzIBoW\ncT8GyR1bpxzHl+DymQdL7mvI7wKBgQC8ed2S+f/EwbrzSXx4FnoSIPZrCDnlEqKA\n7/2VXlBqgkLozsccVz3qjN31X68aKCPZxkd30630LzKZ6RDt04oPTKXslXhmkB/9\n379iPGb9va9SxzJ/wt30lbj5Mp4nRDFwn/x+LKGjgkTtBCW5zaQ6uJip1IxfX3AI\niUODEPh5MwKBgCf1QOEgp6IqDysDO6UalDQufRS2exwOUi0hBH3mKEe5D3JeSSzL\nfqXak1f/bfwQLBForjtjk4Xr3qiNSTxhoTmNg3mTMLF57ppni8UzD+1P0rxjLlj8\nOimrjhOWtcB0sK23sN7hknTbD0HbT0lRItlJB0iO+ZsZG7hrZSVB8AwxAoGBAKTF\nLU4mvNF4REYYgnZBwCpFIuhjYqm+5s4uANUqhMb4ZiI9U5iVNI3u5MR1CBGn8d+b\nFjPNnRASivw+4wvnmZTSf2QbMA0KBs3dY+UvxSIjSDjn6GAFLiF7GyDQfa76UPaT\nBxwPTKgzZKqIq6qJ+v9TDjO6m5VtS/ZKefkFRxQ9AoGBAJuoqsi3rI9KyyvWVRHp\nIEUxrCBWw6tz85BZl3CQ4O+cf9Pgjky8EHXiKI6KmO7ytGtWZtR+8yaA9YAKq516\no1Z11dfZsQU9Uw0Cn/+bZ35NvoII1uIKq7IPKKiDo8xBdeF25GW2KudSqGIk10fa\nEBsPPbZkHtmy037W9rGoDNvF\n-----END PRIVATE KEY-----\n",
+  "client_email": "acesso-databricks@projeto-bi-421401.iam.gserviceaccount.com",
+  "client_id": "101308692106234251481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acesso-databricks%40projeto-bi-421401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
